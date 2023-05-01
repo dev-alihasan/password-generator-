@@ -38,14 +38,6 @@ input[type="text"]:focus {
   background-color: #3e8e41;
 }
 
-/* .btn-secondary {
-  background-color: #e7e7e7;
-}
-
-.btn-secondary:hover {
-  background-color: #ccc;
-} */
-
 .bton:link,
 .bton:visited {
   text-transform: uppercase;
